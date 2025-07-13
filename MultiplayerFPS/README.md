@@ -20,9 +20,8 @@ This project includes core FPS mechanics like shooting, health, respawn, and rea
 
 - **Unity 2021.3 LTS**
 - **C# Scripting**
-- **Photon PUN 2** / **Unity Netcode for GameObjects** *(choose the one you used)*
 - Unity’s **Character Controller** and **Input System**
-- Basic **UI** for health and kill feed
+
 
 ---
 
