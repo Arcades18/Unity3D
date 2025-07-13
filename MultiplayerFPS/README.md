@@ -1,21 +1,32 @@
-# Unity3D
-Collection of 3D games and prototypes developed in Unity — includes FPS, survival, racing, and open-world projects.
-# 🎮 Unity 3D Projects (by BlueArcade)
+# 🔫 Multiplayer FPS Game (Unity 3D)
 
-This repository contains a collection of 3D games and prototypes built in **Unity** using **C#** and Unity’s **3D features**.  
-These projects cover a wide range of genres including **first-person shooters**, **car racing**, **open-world**, and **zombie survival**.
-
-Each subfolder represents a complete Unity 3D project with assets, scenes, and source code.
+A fast-paced, networked **first-person shooter** built in Unity 3D.  
+This project includes core FPS mechanics like shooting, health, respawn, and real-time multiplayer using Photon/Unity Netcode.
 
 ---
 
-## 🧪 Projects Included
+## 🎮 Gameplay Features
 
-- FPS Multiplayer Demo (Photon/Netcode)
-- Zombie Survival Game
-- Car Racing 3D
-- Street Fighting Game
-- GTA-style Open World
-- Online Multiplayer System (Prototype)
+- 👤 **Multiplayer support** with real-time player syncing
+- 🔫 **Shooting mechanics** with projectile/hitscan logic
+- 🩸 **Health system** with damage and respawn
+- 🗺️ **Simple 3D arena map** for player combat
+- 🧍‍♂️ **First-person camera** with mouse look and movement
+- 📶 **Network spawning** for players and bullets
 
 ---
+
+## 🛠 Built With
+
+- **Unity 2021.3 LTS**
+- **C# Scripting**
+- Unity’s **Character Controller** and **Input System**
+
+
+---
+
+## 🚀 How to Play
+
+1. Clone this repo or download ZIP:
+   ```bash
+   git clone https://github.com/BlueArcade/Multiplayer-FPS-Unity3D.git
